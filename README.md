@@ -12,7 +12,10 @@ Create a script that loops through all the stocks for one year and outputs the f
 - The total stock volume of the stock.
 - Add functionality to your script to return the stock with the "Greatest % increase",
    "Greatest % decrease", and "Greatest total volume".
--
+- Use conditional formatting that will highlight positive change in green and negative
+  change in red.
+- Make the VBA script to enable it to run on every worksheet (that is, every year) at once.
+
 - The results:
 
   #### 2018 
@@ -23,4 +26,5 @@ Create a script that loops through all the stocks for one year and outputs the f
 <img width="1440" alt="Screenshot 2023-06-22 at 7 25 48 PM" src="https://github.com/CJunger/VBA-challenge/assets/131617662/618ea176-e1b6-4591-aef4-ab28442fb13d">
 
   #### 2020
+<img width="1440" alt="Screenshot 2023-06-22 at 7 25 55 PM" src="https://github.com/CJunger/VBA-challenge/assets/131617662/f9921a41-8899-4de9-b1c0-1f151d41587a">
 
